@@ -58,5 +58,7 @@ public class Main {
                 break;
         }
 
+        System.out.println(per1.getMonto() + per2.getMonto() + per3.getMonto());
+
     }
 }
